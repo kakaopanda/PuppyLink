@@ -18,6 +18,7 @@ module.exports = {
         "plugin:import/typescript",
         "plugin:react-hooks/recommended",
         "plugin:jsx-a11y/recommended",
+        "prettier",
     ],
     "overrides": [
     ],
