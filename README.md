@@ -3,7 +3,7 @@
 https://harimchung.notion.site/PuppyLink-5f704cc87531409b96124b2c11a4bd1c
 
 ## 0. 서비스 소개
-![image](/uploads/238ed16f7465805572be76bb841ea6a3/image.png)
+![1](https://user-images.githubusercontent.com/63866366/231027996-f51799de-971a-4ab9-8f66-a79dcd9da666.png)
 - PuppyLink는 해외이동봉사자와 단체를 연결해주는 서비스 플랫폼입니다.
 
 ### 타깃
@@ -42,7 +42,8 @@ https://harimchung.notion.site/PuppyLink-5f704cc87531409b96124b2c11a4bd1c
 ### gitignore
 
 - application-dev.yml (aws, gps api, 공공데이터포털api)
-![image](/uploads/ac1a7432a6019f36fb627c6e82c1cb22/image.png)
+![2](https://user-images.githubusercontent.com/63866366/231028035-700dacdf-e741-460f-b0d3-ac2e5f953ff7.png)
+
 
 ## 3. 외부 기술
 
@@ -60,6 +61,5 @@ https://harimchung.notion.site/PuppyLink-5f704cc87531409b96124b2c11a4bd1c
 
 ## 4. 사용자 인터페이스
 
-![First](/uploads/c492f896294fd93b9bf80b625bdfbbdd/First.gif)
 
-![Second](/uploads/6dfece0856f23c1cf69c32835f0005e2/Second.gif)
+![4](https://user-images.githubusercontent.com/63866366/231028080-a427b0f9-a667-40a5-bbb7-0cbd0c17836c.gif)
