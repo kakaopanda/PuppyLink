@@ -61,5 +61,6 @@ https://harimchung.notion.site/PuppyLink-5f704cc87531409b96124b2c11a4bd1c
 
 ## 4. 사용자 인터페이스
 
+![3](https://user-images.githubusercontent.com/63866366/227122991-d396f237-0801-4672-8b59-a1168f359eb4.gif)
 
 ![4](https://user-images.githubusercontent.com/63866366/231028080-a427b0f9-a667-40a5-bbb7-0cbd0c17836c.gif)
